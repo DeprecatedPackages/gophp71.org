@@ -35,3 +35,7 @@
 - name: Spryker
   url: https://academy.spryker.com/what_s_new/releases/release_notes_august_1_2017.html#announcements
   when: Nov 2017
+
+- name: TiSuit
+  url: https://github.com/TiSuit/core/blob/master/composer.json
+  when: August 2017
