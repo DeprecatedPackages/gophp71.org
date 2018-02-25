@@ -83,3 +83,8 @@
   url: https://www.shopsys-framework.com/
   when: Fall 2018
   done: false
+  
+- name: PHP-PM
+  url: https://github.com/php-pm/php-pm/pull/335
+  when: ~ 2018
+  done: false
