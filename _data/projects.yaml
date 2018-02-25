@@ -88,3 +88,8 @@
   url: https://github.com/php-pm/php-pm/pull/335
   when: ~ 2018
   done: false
+  
+- name: PHP-GUI
+  url: https://github.com/gabrielrcouto/php-gui/pull/135
+  when: ~ 2018
+  done: false
