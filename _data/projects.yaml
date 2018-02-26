@@ -94,7 +94,7 @@
   when: ~ 2018
   done: false
 
-- nane: Imagine
+- name: Imagine
   url: https://github.com/avalanche123/Imagine/pull/587
   when: ~ 2019
   done: false
