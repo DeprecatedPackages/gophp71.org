@@ -1,5 +1,11 @@
 # already released tagged version
 
+- name: Zend Framework 3.0
+  url: https://framework.zend.com/blog/2018-05-08-php-7.2-support.html
+  when: May 2019
+  when_url: https://github.com/zendframework/zend-mvc/releases/tag/release-2.7.14
+  done: false
+
 - name: Zend Expressive 3.0
   url: https://github.com/zendframework/zend-expressive/releases/tag/3.0.0
   when: March 2018
