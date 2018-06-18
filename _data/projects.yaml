@@ -40,7 +40,12 @@
   url: http://doctrine-project.org/2017/07/25/php-7.1-requirement-and-composer.html
   when: July 2017
   done: true
-  
+
+- name: Spryker
+  url: https://academy.spryker.com/what_s_new/releases/release_notes_august_1_2017.html#announcements
+  when: January 2018
+  done: true
+
 # working on it - in master branch or in announcement; needs to be tagged
 
 - name: Nette 3.0
@@ -61,11 +66,6 @@
 
 - name: CakePHP 4.0
   url: https://github.com/cakephp/cakephp/wiki/4.0-Roadmap#require-at-least-php-71
-  when: ~ 2018
-  done: false
-
-- name: Spryker
-  url: https://academy.spryker.com/what_s_new/releases/release_notes_august_1_2017.html#announcements
   when: ~ 2018
   done: false
 
