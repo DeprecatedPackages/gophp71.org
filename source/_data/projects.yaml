@@ -45,3 +45,7 @@ parameters:
         - name: Zend Framework
           url: https://framework.zend.com/blog/2017-06-06-zf-php-7-1.html
           when: ~ 2018
+          
+        - name: TroiaStudio/YoutubeAPI
+          url: https://github.com/TroiaStudio/YoutubeAPI
+          when: July 2018
